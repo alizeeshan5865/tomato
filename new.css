@@ -1,0 +1,166 @@
+.sec1{
+    background-image: url(background.jpg);
+    width: 95%;
+    height: 60%;
+    border-radius: 100px;
+    border: 30px solid orchid;
+    
+
+}
+.sec1 div{
+    padding: 100px;
+    text-align: center;
+    text-shadow:brown;
+    font-size:40px;
+    color:white;
+    font-weight:bolder;
+    font-style:sans-serif;
+} 
+nav{
+    float: right;
+    text-decoration:wavy;
+    text-shadow: 2.3em solid black;
+    padding:50px;
+    font-size:20px;
+    color:white;
+}
+a{
+    color:white;
+    font-weight: bolder;
+
+}
+a:visited{
+    color:white;
+}
+a:hover{
+    color:yellow;
+    font:50px;
+}
+h1{
+    text-align:center;
+    text-decoration:dotted;
+    text-transform: uppercase;
+    word-spacing: 5px;
+    border-bottom: 10px solid green;
+    font-size: 50px;
+    color:white;
+    font-weight: bold;
+    font-display:sans-serif;
+}
+h2{
+    color:white;
+    font-weight: bolder;
+    text-decoration: 10px solid gray;
+    font-size:30px;
+
+}
+p{
+    text-emphasis: circle;
+    font-size:100px;
+    color:purple;
+    text-shadow: 10px;
+    
+}
+#radio{
+    text-align:center;
+    font-size: 20px;
+    color:gold;
+    font-style: bolder;
+    text-transform:capitalize;
+
+}
+.sec2{
+    background-image: url(image1.jpg);
+    
+    width:1350px;
+    height:1200px;
+
+}
+#art{
+    font-size:20px;
+    color:crimson;
+    text-transform:capitalize;
+    text-align:center;
+    position: static;
+
+}
+aside{
+    font-size:20px;
+    font: weight 10px;
+    color:yellow;
+    text-align: center;
+
+}
+.sec3 h1{
+    color:black;
+    font-size:20px;
+    font-weight: bold;
+    text-align: center;
+    background-color:green;
+}
+.sec3 p{
+    background-color:blue;
+    color:black;
+    text-align: left;
+    font-weight: bolder;
+    font-size:30px;
+}
+.sec3{
+    background-image: url(IMG20200616161648.jpg);
+    width: 100%;
+    height: 150%;
+
+}
+.sec3 li{
+    font-size:25px;
+    color:blue;
+    text-decoration: wavy solid;
+    text-transform: capitalize;
+}
+#footer h4{
+    color:blue;
+    font:100px;
+    text-align: center;
+}
+#footer{
+    background-color:olive;
+    font-size: 20px;
+
+}
+#footer p{
+    color:black;
+    font-size: 20px;
+    text-align: center;
+    background-color:olive
+}
+.sec4{
+    text-align: center;
+    text-decoration: dotted;
+    background-image: url(IMG20200616151713.jpg);
+    width:auto;
+    height:auto;
+
+}
+.sec4 h1{
+    text-align:center;
+    color:black;
+    font-size: 20px;
+
+}
+.sec4 div{
+    border-radius:20px capitalize;
+    background-image: url(fia.jpg);
+    border-top: 20px solid yellow;
+    border-bottom: 10px solid blue;
+    border-left: 20px solid maroon;
+    border-right: 20px solid pink;
+    background-origin: padding-box;
+    background-color: darkslategrey;
+    font-weight: 100px;
+    padding:10px;
+    margin:50px;
+    word-spacing: 10px;
+    color:red;
+    font-size:30px;
+
+}

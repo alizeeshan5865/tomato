@@ -1,0 +1,72 @@
+.tomato{
+background-image:url(Tomato-HD-Wallpaper.jpg);
+width:1340px;
+height:600px;
+}
+.tomato h1{
+    text-align: center;
+    color:white;
+    font-size:70px;
+    padding-top: 60px;
+    font-weight:lighter;
+}
+.tomato p{
+    text-align: center;
+    font-size:20px;
+    font-weight:bolder;
+    color:white;
+}
+img{
+    text-align: center;
+    padding-top: 50px;
+    display:flex;
+    justify-content:center ;
+}
+.face{
+    text-align: center;
+    padding-top: 50px;
+   
+    float:center;
+    display:flex;
+    justify-content:center ;
+
+
+}
+.sec2{
+text-align: center;
+color: black;
+font-size:300%;
+
+}
+.sec3{
+    background-image: url(red-tomato-vegetable.jpg);
+    width:auto;
+    height: auto;
+    display: flex;
+    
+
+}
+
+
+.heADER{
+    position: relative;
+    left:350px;
+    color:white;
+    width: 60%;
+}
+.peracont p{
+    color:blue;
+    font-size:20px;
+
+}
+.sec4 p{
+    display: flex;
+    left:30px;
+}
+.hea{
+    position: relative;
+    left:350px;
+    color:blue;
+    width: 60%;
+}
+}
